@@ -1,0 +1,14 @@
+eda_env/
+__pycache__/
+*.pyc
+.vscode/
+# Python virtual environments
+eda_env/
+dtale_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
